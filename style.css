@@ -534,7 +534,7 @@ span {
         display: block;
     }
 
-    .navbar{
+    /* .navbar{
         position: absolute;
         top: 100%;
         left: 0;
@@ -550,11 +550,11 @@ span {
         display: block;
     }
 
-    navbar a{
+    .navbar a{
         display: block;
         font-size: 2rem;
         margin: 3rem 0;
-    }
+    } */
 
     .home{
         flex-direction: column;
